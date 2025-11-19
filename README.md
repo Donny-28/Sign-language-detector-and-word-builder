@@ -41,7 +41,7 @@ A real-time American Sign Language (ASL) letter recognition system that detects 
 * Builds words/sentences on demand
 
 # Quick Start
-The trained random forrest classifier is provided (model.p) and dataset is also provided (data.pickle), the model has been trained on my hand signs (excluding ) so the inference.py can be used directly. 
+The trained random forrest classifier is provided (model.p) and dataset is also provided (data.pickle), the model has been trained on my hand signs (excluding J, M, N, P, Q, R, Z) so the inference.py can be used directly. 
 If you wish to train the model on your own hand sign signals replace the current model.p and data.pickle files by removing them and follow the steps below:
 1. Collect Training Data ( run collect.py)
 * Collect images for each ASL letter:
