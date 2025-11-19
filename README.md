@@ -3,11 +3,17 @@ A real-time American Sign Language (ASL) letter recognition system that detects 
 
 # Features
 🎯 Real-time Detection
+
 📝 Word Builder: Spell out complete words and sentences letter by letter
+
 🔊 Text-to-Speech: Hear your spelled words spoken aloud
+
 🎨 Visual Feedback: Confidence scores and color-coded indicators
+
 💾 Save Words: Optional feature to save sentences to file
+
 🖐️ Hand Tracking: Uses MediaPipe for robust hand landmark detection
+
 🤖 Machine Learning: Random Forest classifier 
 
 # How It Works
